@@ -1,7 +1,5 @@
 # Referências de Design - EduTrack AI
 
-# Referências de Design - EduTrack AI
-
 ## Template 1: Education Dashboard
 - **Link:** https://www.figma.com/design/WRvXcR6UOy9SpZvivhUhcU/Education-Dashboard--Community-
 - **O que tem de bom:**
