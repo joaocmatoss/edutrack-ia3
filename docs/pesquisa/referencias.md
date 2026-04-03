@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Maior sacada que tive com os templates:
+## Maior sacada que tive com os templates:
 
 Um bom dashboard educacional precisa de:
 1. **Visão geral rápida** (cards com números)
